@@ -25,7 +25,7 @@ class Circle{
   
   var circle_RC=new Circle(1,"Red")
   console.log(circle_RC.getRadius())
-  circle_RC.setRadius(12)
+  circle_RC.setRadius(10)
   console.log(circle_RC.getColor())
   circle_RC.setColor("Blue")
   console.log(circle_RC.getArea())
